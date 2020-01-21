@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TestFrameA'
-  s.version          = '1.0.0'
+  s.version          = '2.0.0'
   s.summary          = 'Test TestFrameA'
   s.homepage         = 'https://github.com/alexejn/TestFrameReleases'
   s.author           = 'AlexejNe Test'
